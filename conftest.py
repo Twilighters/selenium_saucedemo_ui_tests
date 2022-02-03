@@ -58,7 +58,7 @@ def pytest_addoption(parser):
     parser.addoption(
         "--base-url",
         action="store",
-        default="https://www.saucedemo.com/",
+        default="http://uitestingplayground.com/sampleapp",
         help="enter base_url",
     ),
     parser.addoption(

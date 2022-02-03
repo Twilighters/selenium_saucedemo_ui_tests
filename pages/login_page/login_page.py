@@ -12,11 +12,11 @@ logger = logging.getLogger("moodle")
 
 
 class LoginPage(BasePage):
-    LOGIN = (By.ID, "user-name")
-    PASSWORD = (By.ID, "password")
-    SUBMIT = (By.ID, "login-button")
-    SHOPPING_CART_CONTAINER = (By.ID, "shopping_cart_container")
-    LOGIN_ERROR = (By.CSS_SELECTOR, "h3")
+    LOGIN = (By.CSS_SELECTOR, "input[name='UserName']")
+    PASSWORD = (By.CSS_SELECTOR, "input[name='Password']")
+    SUBMIT = (By.ID, "login")
+    SHOPPING_CART_CONTAINER = (By.CLASS_NAME, "text-success")
+    LOGIN_ERROR = (By.CLASS_NAME, "text-danger")
 
     def is_auth(self):
         self.find_element(LoginPage.SHOPPING_CART_CONTAINER)
