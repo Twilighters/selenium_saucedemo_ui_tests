@@ -17,13 +17,7 @@ jobs:
             python3 -m venv venv
             . venv/bin/activate
             pip install -r requirements.txt
-      # Step 3: install and start selenium
-      - run:
-          name: Download Selenium
-          command: |
-            curl -O http://selenium-release.storage.googleapis.com/3.5/selenium-server-standalone-3.5.3.jar
-
-      # Step 4: run linter and tests
+      # Step 3: run linter and tests
       - run:
           name: run tests
           command: |
