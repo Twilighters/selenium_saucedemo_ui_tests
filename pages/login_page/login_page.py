@@ -8,19 +8,19 @@ from models.auth import AuthData
 from pages.base_page import BasePage
 
 
-logger = logging.getLogger("moodle")
+logger = logging.getLogger("test_platform")
 
 
 class LoginPage(BasePage):
     LOGIN = (By.CSS_SELECTOR, "input[name='UserName']")
     PASSWORD = (By.CSS_SELECTOR, "input[name='Password']")
     SUBMIT = (By.ID, "login")
-    SHOPPING_CART_CONTAINER = (By.CLASS_NAME, "text-success")
+    SUCCESS_MESSAGE = (By.CLASS_NAME, "text-success")
     LOGIN_ERROR = (By.CLASS_NAME, "text-danger")
 
     def is_auth(self):
-        self.find_element(LoginPage.SHOPPING_CART_CONTAINER)
-        element = self.find_elements(LoginPage.SHOPPING_CART_CONTAINER)
+        self.find_element(LoginPage.SUCCESS_MESSAGE)
+        element = self.find_elements(LoginPage.SUCCESS_MESSAGE)
         if element:
             return True
         return False
