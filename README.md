@@ -1,7 +1,7 @@
 # selenium_saucedemo_ui_tests
 [![CircleCI](https://circleci.com/gh/Twilighters/selenium_saucedemo_ui_tests/tree/main.svg?style=svg)](https://circleci.com/gh/Twilighters/selenium_saucedemo_ui_tests/tree/main)
 
-# Тесты для приложения ["saucedemo"](https://www.saucedemo.com/) на Selenium WebDriver
+# Тесты для приложения ["uitestingplayground"](http://uitestingplayground.com/sampleapp) на Selenium WebDriver
 
 ## Установка
 ***
