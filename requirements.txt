@@ -1,59 +1,60 @@
-async-generator @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/fe/72/db/709736555b02c2d1ae90038b7b05138b15e24edde3aa7556fc2507a90f/async_generator-1.10-py3-none-any.whl
-atomicwrites @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/b7/99/9c/c8ddc18c8225c740fc2ae6d503da3f93d5dddaf04afac3da460afacbc6/atomicwrites-1.4.0-py2.py3-none-any.whl
-attrs @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/5b/25/94/5d165cd3190cb7dfdc98de86c28e8131fc6e19d83a504412664abffec0/attrs-21.4.0-py2.py3-none-any.whl
+async-generator
+atomicwrites
+attrs
 CacheControl==0.12.10
 cachy==0.3.0
 certifi==2021.10.8
-cffi @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/ec/6b/05/494ef9f78f818b7bc9c9803456842398cbfc2380bbba02e47f77766b15/cffi-1.15.0-cp39-cp39-win_amd64.whl
+cffi
 charset-normalizer==2.0.11
 cleo==0.8.1
 clikit==0.6.2
-colorama @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/9e/b3/11/7d87ac44fdb2d557301f1f4086a37c080d1482a98751abe7cdbabbad26/colorama-0.4.4-py2.py3-none-any.whl
-configparser @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/5d/f4/e0/46a13abe32ddb24eefbec544131a7050f0951e8023028eefa49aa1e17b/configparser-5.2.0-py3-none-any.whl
+colorama
+configparser
 crashtest==0.3.1
-crayons @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/67/1d/85/8cd5d0a1c18a587b08c18f01bce74cd9a42c0e3a3e9d3ca9be9134ee40/crayons-0.4.0-py2.py3-none-any.whl
-cryptography @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/a0/0a/72/ae8e5049c71dbcacea90787485483a27627a3deb7c97757a6d67294adf/cryptography-36.0.1-cp36-abi3-win_amd64.whl
+crayons
+cryptography
 distlib==0.3.4
-Faker @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/36/2d/29/27e948f61e57803ca5538cccdcd2c40d38fe5d49953a91af78dc793423/Faker-12.0.0-py3-none-any.whl
+Faker
 filelock==3.4.2
-h11 @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/b8/da/55/44ffe0c74acbcaf35e29031794ef40115a51cc80bf443005d45c5f58db/h11-0.13.0-py3-none-any.whl
+flake8
+h11
 html5lib==1.1
 idna==3.3
-iniconfig @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/fa/b0/c6/10cfac68c9e6de9d2a1678366ca89fd9292b362c1760dbe758e41691cb/iniconfig-1.1.1-py2.py3-none-any.whl
+iniconfig
 keyring==21.8.0
 lockfile==0.12.2
 msgpack==1.0.3
-outcome @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/53/ca/17/951e46163cc13524d4d1604d8a3e8395cebbcbe4df8dbcd613833372fc/outcome-1.1.0-py2.py3-none-any.whl
-packaging @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/47/3f/ce/b240169f7d8bef1ff24a0269b709721ce86543c2ec25e0b6adb2c2d7ac/packaging-21.3-py3-none-any.whl
+outcome
+packaging
 pastel==0.2.1
 pexpect==4.8.0
 pkginfo==1.8.2
 platformdirs==2.4.1
-pluggy @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/81/78/ca/13f743a3628faf5a0b7f021efb45f2193acba3a13663d498f6b34bf02e/pluggy-1.0.0-py2.py3-none-any.whl
+pluggy
 poetry==1.1.12
 poetry-core==1.0.7
 ptyprocess==0.7.0
-py @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/b3/5c/47/ba5a596e01a2b61fa2daa6a438252483ad8c04e6c99e5dc22eaf8a489a/py-1.11.0-py2.py3-none-any.whl
-pycparser @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/fb/06/dd/b5671b47dd0597663bc05d60d324bb315a8cef56f3179b8f9067f88e50/pycparser-2.21-py2.py3-none-any.whl
+py
+pycparser
 pylev==1.4.0
-pyOpenSSL @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/1a/b8/bc/842ce6919b1b88eb8be20ffce123c6ea19d768916a3ea47c12b8cc80e5/pyOpenSSL-22.0.0-py2.py3-none-any.whl
+pyOpenSSL
 pyparsing==3.0.7
-pytest @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/28/be/f1/ce8fa22c989106fc7c1ee7fa31d55d7f31aee1c58c63b2a43670601b79/pytest-6.2.5-py3-none-any.whl
-python-dateutil @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/53/f8/2a/7d63ce15df7386e9536e83413453f8aa845b47fb425f05c4ca2fb231c3/python_dateutil-2.8.2-py2.py3-none-any.whl
+pytest
+python-dateutil
 pywin32-ctypes==0.2.0
 requests==2.27.1
 requests-toolbelt==0.9.1
-selenium @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/96/88/26/11fd8d4f4a5bf98a33468c88d91d12db3d055746e808452537c22078ab/selenium-4.1.0-py3-none-any.whl
+selenium
 shellingham==1.4.0
 six==1.16.0
-sniffio @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/d5/26/da/4c1b03b71c2d3fdf83bb7c73a0ddb8cf8071e4633d6d1193909c780cc2/sniffio-1.2.0-py3-none-any.whl
-sortedcontainers @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/b9/80/e1/4bdfa349488797fd308ecbe48f4fad57a3245777fb47c8741730583262/sortedcontainers-2.4.0-py2.py3-none-any.whl
-toml @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/6b/6a/c9/53b19f7870a77d855e8b05ecdc98193944e5d246dafe11bbcad850ecba/toml-0.10.2-py2.py3-none-any.whl
+sniffio
+sortedcontainers
+toml
 tomlkit==0.9.0
-trio @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/a7/5e/39/27fd2dc5fb4f78feff8ae291677af63cd75a9d0db0f9c4f4f12689cf5f/trio-0.19.0-py3-none-any.whl
-trio-websocket @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/fa/9f/c4/7f077d945bf2a4a34205c5cfae57115fee0fa4b014e1d5971677b37e6c/trio_websocket-0.9.2-py3-none-any.whl
+trio
+trio-websocket
 urllib3==1.26.8
 virtualenv==20.13.0
-webdriver-manager @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/f3/17/d2/1bf302282b858d6b0c47b07678e1a53ce46714d77d2ca445869029c314/webdriver_manager-3.5.2-py2.py3-none-any.whl
+webdriver-manager
 webencodings==0.5.1
-wsproto @ file:///C:/Users/TwilighterS/AppData/Local/pypoetry/Cache/artifacts/1d/a7/2d/130c91643f699e66be083d45b5bd85ecf1101cdfd5a1ac621097807818/wsproto-1.0.0-py3-none-any.whl
+wsproto
